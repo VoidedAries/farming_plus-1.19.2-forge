@@ -1,4 +1,6 @@
 {
   "item.farmingplus.pineapple": "Pineapple",
+
+  "block.farmingplus.pineapple_crop": "Pineapple Crop",
   "itemGroup.farming_plus_tab": "Farming Plus"
 }

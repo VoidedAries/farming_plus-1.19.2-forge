@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "age=0": {"model": "farmingplus:block/pineapple/pineapple_stage_0"},
+    "age=1": {"model": "farmingplus:block/pineapple/pineapple_stage_1"},
+    "age=2": {"model": "farmingplus:block/pineapple/pineapple_stage_2"},
+    "age=3": {"model": "farmingplus:block/pineapple/pineapple_stage_3"},
+    "age=4": {"model": "farmingplus:block/pineapple/pineapple_stage_4"},
+    "age=5": {"model": "farmingplus:block/pineapple/pineapple_stage_5"}
+  }
+}

@@ -1,0 +1,46 @@
+{
+	"ambientocclusion": false,
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "farmingplus:block/pineapple/pineapple_stage_0",
+		"particle": "farmingplus:block/pineapple/pineapple_stage_0"
+	},
+	"elements": [
+		{
+			"from": [8, -1, 0],
+			"to": [8, 7, 17],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2.125, 0, 2.125, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 2.125, 1], "texture": "#0"},
+				"south": {"uv": [4.25, 0, 4.25, 1], "texture": "#0"},
+				"west": {"uv": [2.125, 0, 4.25, 1], "texture": "#0"},
+				"up": {"uv": [2.125, 0, 2.125, -2.125], "texture": "#0"},
+				"down": {"uv": [2.125, -2.125, 2.125, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, -1, -1],
+			"to": [8, 7, 16],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2.125, 0, 2.125, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 2.125, 1], "texture": "#0"},
+				"south": {"uv": [4.25, 0, 4.25, 1], "texture": "#0"},
+				"west": {"uv": [2.125, 0, 4.25, 1], "texture": "#0"},
+				"up": {"uv": [2.125, 0, 2.125, -2.125], "texture": "#0"},
+				"down": {"uv": [2.125, -2.125, 2.125, 0], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "grass",
+			"origin": [8, 1, 8],
+			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
+			"children": [0, 1]
+		}
+	]
+}
